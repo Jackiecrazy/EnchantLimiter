@@ -1,5 +1,5 @@
 {
-  "enchantlimiter.points": "消費エンチャントポイント: %s",
-  "enchantlimiter.tip": "消費: %1$s + %2$s × %3$s = %4$s",
+  "enchantlimiter.points": "エンチャントポイント: %s",
+  "enchantlimiter.tip": "消費ポイント: %1$s + %2$s × %3$s = %4$s",
   "enchantlimiter.shift": "シフト長押しで個々エンチャントのポイント消費を表示..."
 }
